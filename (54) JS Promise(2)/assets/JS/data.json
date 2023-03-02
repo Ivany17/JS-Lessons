@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Elon",
+        "thurName":"Musk",
+        "age":50,
+        "children":["one","two"],
+        "isAdult":true,
+        "isUkrainian":null,
+        "friends":{
+            "friend1":"Tom",
+            "friend2":"Tim"
+        }
+    },
+    {
+        "name":"Elen",
+        "thurName":"Musk",
+        "age":50,
+        "children":["one","two"],
+        "isAdult":true,
+        "isUkrainian":null,
+        "friends":{
+            "friend1":"Tom",
+            "friend2":"Tim"
+        }
+    }
+]
